@@ -1,0 +1,11 @@
+com\upiiz\crud\repositories\CuentasRepository.class
+com\upiiz\crud\repositories\TransaccionesRepository.class
+com\upiiz\crud\CrudApplication.class
+com\upiiz\crud\models\integer.class
+com\upiiz\crud\services\CuentasService.class
+com\upiiz\crud\controllers\CuentasController.class
+com\upiiz\crud\services\TransaccionesService.class
+com\upiiz\crud\models\TransaccionesModel.class
+com\upiiz\crud\controllers\HomeController.class
+com\upiiz\crud\controllers\TransaccionesController.class
+com\upiiz\crud\models\CuentasModel.class
